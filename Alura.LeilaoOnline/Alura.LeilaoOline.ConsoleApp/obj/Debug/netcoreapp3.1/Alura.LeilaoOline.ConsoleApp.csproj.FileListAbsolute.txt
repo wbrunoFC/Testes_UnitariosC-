@@ -1,0 +1,17 @@
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.exe
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.deps.json
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.runtimeconfig.json
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.runtimeconfig.dev.json
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.dll
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.pdb
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.dll
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.pdb
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.AssemblyInfo.cs
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.csproj.CopyComplete
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.dll
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.pdb
+C:\Users\wbrun\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOline.ConsoleApp.genruntimeconfig.cache
